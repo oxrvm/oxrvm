@@ -1,12 +1,23 @@
+## Socials 🌐
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marendazgregory) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logoSize=auto)](https://linkedin.com/in/marendazgregory) 
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oxrvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oxrvm&theme=dark&hide_border=false)<br/>
+## Technologies 🚀
+### Networks
+
+![Palo Alto](https://img.shields.io/badge/palo%20alto-fa582d?style=for-the-badge&logoSize=auto) ![Cisco](https://img.shields.io/badge/cisco-00bceb?style=for-the-badge&logoSize=auto) ![HPE Aruba](https://img.shields.io/badge/hpe%20aruba-01a982?style=for-the-badge&logoSize=auto)<br>
+
+### Environments
+
+![Microsoft](https://img.shields.io/badge/microsoft-0085cf?style=for-the-badge&logoSize=auto) ![Azure](https://img.shields.io/badge/azure-0085cf?style=for-the-badge&logoSize=auto)<br>
+
+### Programming Languages
+
+![PowerShell](https://img.shields.io/badge/powershell-0085cf?style=for-the-badge&logoSize=auto) ![Python](https://img.shields.io/badge/python-1c3b56?style=for-the-badge&logoSize=auto)
+
+## GitHub Stats 📊
+
+![](https://github-readme-stats.vercel.app/api?username=oxrvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxrvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
